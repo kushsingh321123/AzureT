@@ -8,4 +8,5 @@ git  push     update commit filr intot the remote repositry
 git staus 
 git merge 
 now checking it is updateing or not 
+once we will push after that we can check weather it is updating or not in git Hub.
 
