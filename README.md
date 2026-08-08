@@ -7,5 +7,4 @@ git status check the stas
 git  push     update commit filr intot the remote repositry
 git staus 
 git merge 
-git checktest
 
