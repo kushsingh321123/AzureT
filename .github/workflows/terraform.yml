@@ -32,6 +32,10 @@ jobs:
         working-directory: environments/preprod
         run: terraform validate
 
+      - name: Terraform Version
+        working-directory: environments/preprod
+        run: terraform version
+
       - name: Terraform Plan
         working-directory: environments/preprod
         run: terraform plan
